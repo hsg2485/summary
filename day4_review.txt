@@ -1,0 +1,21 @@
+package koreait.day02;
+
+public class C06_DoubleVar {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//변수 선언
+		float p1;
+		double p2;
+		
+		//변수 선언과 초기화
+		float q1 = 3.14F; //실수는 기본형이 double이므로 리터럴 표시할 때 마지막에 F나 f 붙여야 함
+		double q2 = 3.14;
+	}
+
+}
+/*
+ * 
+ * 
+ */
